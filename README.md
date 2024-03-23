@@ -1,4 +1,4 @@
-# Hello, Everyone!  <h1>Hi there! <span class="wave">👋</span></h1>
+# Hello, Everyone! 👋🏻
 
 
 Nahal Bagheri's GitHub Profile
