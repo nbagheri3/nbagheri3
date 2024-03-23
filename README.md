@@ -1,6 +1,6 @@
 # Hello, Everyone!
 
-![Waving Hand](URL_TO_YOUR_ANIMATED_GIF)
+![Waving Hand](https://imgur.com/gallery/rD5ArTv)
 
 
 Nahal Bagheri's GitHub Profile
