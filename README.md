@@ -1,4 +1,4 @@
-# Hello, Everyone!  ![[Waving Hand](https://images.app.goo.gl/KMnoZfsdZfXH3Aab9)]
+# Hello, Everyone!  <h1>Hi there! <span class="wave">👋</span></h1>
 
 
 Nahal Bagheri's GitHub Profile
