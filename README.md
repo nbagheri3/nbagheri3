@@ -12,5 +12,5 @@ Nahal Bagheri's GitHub Profile
 
 ## 🔥Technologies & Tools
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourUsername&theme=dark&background=000000)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nahal&theme=dark&background=000000)
 
