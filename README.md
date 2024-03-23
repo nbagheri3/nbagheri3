@@ -1,4 +1,4 @@
-# Hello, Guys! 
+# Hello, Everyone! 👋
 Nahal Bagheri's GitHub Profile
 
 **Computer Science Master Student**
