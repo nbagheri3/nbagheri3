@@ -11,13 +11,16 @@ Nahal Bagheri's GitHub Profile
 * LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-name)
 
 ## Technologies & Tools
+# Clone the project:
+git clone https://github.com/0l1v3rr/github-readme-tech-stack.git
+cd github-readme-tech-stack
 
-* **Programming Languages:**
-  * Python: ![Python](path/to/python-icon.svg)
-  * JavaScript: ![JavaScript](path/to/javascript-icon.svg)
-  * ... (add more languages)
-* **Frameworks:**
-  * Django: ![Django](path/to/django-icon.svg)
-  * React: ![React](path/to/react-icon.svg)
-  * ... (add more frameworks)
+# Install the dependencies:
+npm i
+npm run prepare
 
+# Running the application:
+npm run dev
+
+# Running the storybook:
+npm run storybook
