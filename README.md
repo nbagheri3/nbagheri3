@@ -1,4 +1,5 @@
 # Hello, Everyone! 👋
+![Animated Handshake](URL_TO_YOUR_UPLOADED_HANDSHAKE_GIF)
 Nahal Bagheri's GitHub Profile
 
 **Computer Science Master Student**
