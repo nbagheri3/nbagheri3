@@ -8,7 +8,7 @@ Nahal Bagheri's GitHub Profile
 **Connect with me:**
 
 * Website: [Your Website](https://www.yourwebsite.com) (if you have one)
-* LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/nahal-bagheri)
+* LinkedIn: [My LinkedIn Profile](www.linkedin.com/nahal-bagheri)
 
 ## 🔥Technologies & Tools
 
