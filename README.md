@@ -2,9 +2,8 @@
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) 
 
-**Computer Science Master Student**
 
-I am a Computer Scientist, currently pursuing a MS in Computer Science at San Jose State University, California.
+I am a **Computer Scientist**, currently pursuing a MS in Computer Science at San Jose State University, California.
 
 🔎   Currently seeking internship opportunities.
 💻   Passionate about AI, Machine Learning, Deep Learning, and LLM and Generative AI.
