@@ -4,11 +4,14 @@
 
 **Computer Science Master Student**
 
-[A short description about yourself and your interests](here you can write a bit about yourself, your passion for computer science, and what you're hoping to achieve).
+[A short description about yourself and your interests](I am a Computer Scientist, currently pursuing a MS in Computer Science at San Jose State University, California.
+
+🔎   Currently seeking internship opportunities.
+💻   Passionate about AI, Machine Learning, Deep Learning, and LLM and Generative AI.
 
 **Connect with me:**
 
-* Website: [Your Website](https://www.yourwebsite.com) (if you have one)
+* Website: [Your Website](https://www.yourwebsite.com)
 * LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/nahal-bagheri/)
 
 ## 💻 Technologies & Tools
