@@ -11,7 +11,6 @@ I am a **Computer Scientist**, currently pursuing a MS in Computer Science at Sa
 
 **Connect with me:**
 
-* Website: [Your Website](https://www.yourwebsite.com)
 * LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/nahal-bagheri/)
 
 ## 💻 Technologies & Tools
