@@ -3,9 +3,9 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) 
 
 
-I am a **Computer Scientist**, currently pursuing a MS in Computer Science at San Jose State University, California.
+I am a **Computer Scientist**, currently pursuing a MS in Computer Science at Georgia Institute of Technology (online).
 
-🔎   Currently seeking internship opportunities.
+🔎   Currently seeking full time opportunities.
 
 💻   Passionate about AI, Machine Learning, Deep Learning, and LLM and Generative AI.
 
